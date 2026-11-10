@@ -1,0 +1,11 @@
+Maher#//#Ali#//#101#//#35#//#O+#//#He Exists In Heart Department Room2 Bed4#//#Blood(9) 4/6/2026#//#Mg.500#//#Nothing
+Rami#//#Mahmood#//#102#//#28#//#AB-#//#He Exists In Heart Department Room6 Bed3#//#Sugar(7.6) 1/6/2026#//#Vetamin C#//#Open Heart
+Jaafar#//#Maatouk#//#201#//#21#//#B+#//#He Exists In Eye Department Room4 Bed3#//#Nothing#//#Lansodol#//#Eyes Surgon
+Samir#//#Saleh#//#202#//#21#//#A-#//#He Exists In Eye Department Room1 Bed2#//#Nothing#//#Nothing#//#Nothing
+Sara#//#Ali#//#301#//#19#//#AB+#//#She Exists In Noise Deparment Room6 Bed5#//#Nothing#//#Setamol#//#Nothing
+Mohammed#//#Saed#//#302#//#41#//#O-#//#He Exists In Noise Department Room1 Bed4#//#Blood(8.5) 2/6/2026#//#Mg.500#//#Noise Surgon
+Mosab#//#Ahmad#//#401#//#37#//#B+#//#He Exists In Teeth Department Room3 Bed4#//#Nothing#//#Vetamin D#//#Tooth Implant
+Leen#//#Ahmad#//#402#//#29#//#A+#//#She Exists In Teeth Department Room1 Bed2#//#Blood(7) 1/6/2026#//#Lansodol#//#Nothing
+Moath#//#Hani#//#501#//#27#//#AB-#//#He Exists In Bones Department Room5 Bed1#//#Iron(9) 5/6/2026,Blood(8) 6/6/2026#//#Mg.500,Vitamin C#//#Nothing
+Laith#//#Esa#//#601#//#22#//#O+#//#He Exists In Surgon Department Room8 Bed2#//#blood(7.9), Sugar(9) 29/5/2026#//#Lansodol#//#Surgon In Stomack
+Ahmad#//#Mohammed#//#502#//#32#//#A+#//#He Exists In Bones Department Room4 Bed2#//#Iron(8) 4/6/2026#//#Vetamin C#//#Nothing

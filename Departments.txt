@@ -1,0 +1,6 @@
+10#//#Heart Department#//#6#//#4
+20#//#Eyes Department#//#7#//#3
+30#//#Noise Department#//#10#//#2
+40#//#Teeth Department#//#8#//#4
+50#//#Bones Department#//#5#//#1
+60#//#Surgon Department#//#6#//#3
